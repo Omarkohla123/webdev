@@ -1,0 +1,54 @@
+            body{
+                background-color: aliceblue;
+            }
+            .Name{
+                background-color: rgb(33, 30, 30);
+                text-align: center;
+                
+            }
+            .name{
+                color: aliceblue;
+                font-size:xx-large;
+
+            }
+            .jobs{
+                color: aliceblue;
+                font-size:medium;
+                 
+            }
+            .About{
+
+                background-color: aliceblue;
+                text-align: center;
+                margin-bottom: 50px;
+
+            }
+            .Description{
+                color: grey;
+                font-size: small;
+            }
+            .Projects{
+                background-color: aliceblue;
+                text-align: center;
+               margin-bottom: 50px;
+
+            }
+            .First , .Second , .Third{
+                background-color: white;
+                display: inline-block;
+                width: 250px;
+                border-radius: 12px;
+            }
+             .Contact{
+                background-color: aliceblue;
+                text-align: center;
+            }
+            .Rights{
+                background-color: black;
+                color: white;
+                text-align: center;
+                  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+            }
